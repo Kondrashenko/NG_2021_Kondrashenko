@@ -34,3 +34,4 @@
 # Code::Blocks projects
 *.cbp
 *.layout
+*.depend
