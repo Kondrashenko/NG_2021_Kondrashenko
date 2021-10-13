@@ -10,8 +10,7 @@ int main()
     cout << "Variable b = " << b << endl;
     cout << "Now, let's swap them, and this is what we get after:" << endl;
     a = a + b;
-    b = b - a;
-    b = - b;
+    b = a - b;
     a = a - b;
     cout << "Variable a = " << a << endl;
     cout << "Variable b = " << b << endl;

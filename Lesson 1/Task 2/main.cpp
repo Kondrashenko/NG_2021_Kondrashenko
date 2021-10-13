@@ -4,72 +4,37 @@ using namespace std;
 
 int main()
 {
-    cout << char(95); // symbol _
-    cout << char(95); // symbol _
-    cout << char(95); // symbol _
-    cout << char(95); // symbol _
-    cout << char(95); // symbol _
-    cout << char(95); // symbol _
-    cout << char(95); // symbol _
-    cout << char(13); // symbol carriage return
-    cout << char(32); // symbol space
-    cout << char(32); // symbol space
-    cout << char(47); // symbol /
-    cout << char(32); // symbol space
-    cout << char(32); // symbol space
-    cout << char(32); // symbol space
-    cout << char(32); // symbol space
-    cout << char(32); // symbol space
-    cout << char(32); // symbol space
-    cout << char(47); // symbol /
-    cout << char(44); // symbol ,
-    cout << char(13); // symbol carriage return
-    cout << char(10); // symbol line break
-    cout << char(32); // symbol space
-    cout << char(32); // symbol space
-    cout << char(47); // symbol /
-    cout << char(32); // symbol space
-    cout << char(32); // symbol space
-    cout << char(32); // symbol space
-    cout << char(32); // symbol space
-    cout << char(32); // symbol space
-    cout << char(32); // symbol space
-    cout << char(47); // symbol /
-    cout << char(47); // symbol /
-    cout << char(13); // symbol carriage return
-    cout << char(10); // symbol line break
-    cout << char(32); // symbol space
-    cout << char(47); // symbol /
-    cout << char(95); // symbol _
-    cout << char(95); // symbol _
-    cout << char(95); // symbol _
-    cout << char(95); // symbol _
-    cout << char(95); // symbol _
-    cout << char(95); // symbol _
-    cout << char(47); // symbol /
-    cout << char(47); // symbol /
-    cout << char(13); // symbol carriage return
-    cout << char(10); // symbol line break
-    cout << char(40); // symbol (
-    cout << char(95); // symbol _
-    cout << char(95); // symbol _
-    cout << char(95); // symbol _
-    cout << char(95); // symbol _
-    cout << char(95); // symbol _
-    cout << char(95); // symbol _
-    cout << char(40); // symbol (
-    cout << char(47); // symbol /
-    cout << char(95); // symbol _
-    cout << char(74); // symbol J
-    cout << char(117); // symbol u
-    cout << char(115); // symbol s
-    cout << char(115); // symbol s
-    cout << char(105); // symbol i
-    cout << char(32); // symbol space
-    cout << char(82); // symbol R
-    cout << char(111); // symbol o
-    cout << char(105); // symbol i
-    cout << char(110); // symbol n
-    cout << char(101); // symbol e
+ cout << " _..-- `.`.   `.  `.  `.      --.._ " << endl;
+ cout << "             /    ___________\   \   \______    \ " << endl;
+ cout << "             |   |.-----------`.  `.  `.---.|   | " << endl;
+ cout << "             |`. |'  \`.        \   \   \  '|   | " << endl;
+ cout << "             |`. |'   \ `-._     `.  `.  `.'|   | " << endl;
+ cout << "            /|   |'    `-._o)\  /(o\   \   \|   |\ " << endl;
+ cout << "          .' |   |'  `.     .'  '.  `.  `.  `.  | `. " << endl;
+ cout << "         /  .|   |'    `.  (_.==._)   \   \   \ |.  \         _.--. " << endl;
+ cout << "       .' .' |   |'      _.-======-._  `.  `.  `. `. `.    _.-_.-'\\ " << endl;
+ cout << "      /  /   |   |'    .'   |_||_|   `.  \   \   \  \  \ .'_.'     || " << endl;
+ cout << "     / .'    |`. |'   /_.-'========`-._\  `.  `-._`._`. \(.__      :| " << endl;
+ cout << "    ( '      |`. |'.______________________.'\      _.) ` )`-._`-._/ / " << endl;
+ cout << "     \\      |   '.------------------------.'`-._-'    //     `-._.' " << endl;
+ cout << "     _\\_    \    | AMIGA  O O O O * * `.`.|    '     // " << endl;
+ cout << "    (_  _)    '-._|________________________|_.-'|   _//_ " << endl;
+ cout << "    /  /      /`-._      |`-._     / /      /   |  (_  _) " << endl;
+ cout << "  .'   \     |`-._ `-._   `-._`-._/ /      /    |    \  \ " << endl;
+ cout << " /      `.   |    `-._ `-._   `-._|/      /     |    /   `. " << endl;
+ cout << "/  / / /. )  |  `-._  `-._ `-._          /     /   .'      \ " << endl;
+ cout << "| | | \ \|/   |  `-._`-._  `-._ `-._     /     /.  ( .\ \ \  \ " << endl;
+ cout << "\ \ \ \/     |  `-._`-._`-._  `-._ `-._/     /  \  \|/ / | | | " << endl;
+ cout << " `.\_\/       `-._  `-._`-._`-._  `-._/|    /|   \   \/ / / / " << endl;
+ cout << "             /    `-._  `-._`-._`-._  ||   / |    \   \/_/.' " << endl;
+ cout << "           .'         `-._  `-._`-._  ||  /  |     \ " << endl;
+ cout << "  LGB     /           / . `-._  `-._  || /   |      \ " << endl;
+ cout << "         '\          / /      `-._    ||/'._.'       \ " << endl;
+ cout << "          \`.      .' /           `-._|/              \ " << endl;
+ cout << "           `.`-._.' .'               \               .' " << endl;
+ cout << "             `-.__\/                 `\            .' ' " << endl;
+ cout << "                                      \`.       _.' .' " << endl;
+ cout << "                                       `.`-._.-' _.' " << endl;
+ cout << "                                         `-.__.-' " << endl;
     return 0;
 }
