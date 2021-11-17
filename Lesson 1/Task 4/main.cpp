@@ -5,16 +5,16 @@ using namespace std;
 
 int main()
 {
-    double a;
+    double a = 0;
 	cout << "Enter a: ";
     cin >> a;
-    double b;
+    double b = 0;
     cout << "Enter b: ";
     cin >> b;
-    double c;
+    double c = 0;
     cout << "Enter c: ";
     cin >> c;
-    double x;
+    double x = 0;
     if((b*b - 4*a*c) > 0) // if discriminant positive.
   {
     x = ( -1*b + sqrt(b*b - 4*a*c) ) / (2 * a);
