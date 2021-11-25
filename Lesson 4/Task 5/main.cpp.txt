@@ -1,0 +1,22 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    char str[100] = {0};
+    cout << "Please, enter the sentence: ";
+    cin.getline(str,100);
+    for (int i=0; i<100; i++)
+    {
+            if(str[i]=='f' && str[i+1]=='u' && str[i+2]=='c' && str[i+3]=='k')
+            {
+                for(int j = 0; j < 4;j++)
+                {
+                str[i+j]='*';
+                }
+            }
+    }
+    cout << str;
+    return 0;
+}
